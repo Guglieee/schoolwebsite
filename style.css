@@ -1,0 +1,33 @@
+/* Reset CSS */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #f4f4f4;
+}
+
+header {
+  background-color: #333;
+  width: 100%;
+  position: relative;
+  z-index: 1;
+  color: #fff;
+}
+
+.barraBlu {
+  background-color: #003183;
+  height: 40px;
+  font-weight: 700;
+}
+
+.logoMinistero {
+  display: flex;
+}
+
+.testoMinistero {
+  margin-left: 0.5rem;
+}
